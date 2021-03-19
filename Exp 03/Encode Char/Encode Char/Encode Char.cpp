@@ -39,7 +39,11 @@ int main(int argv, char* argc[]) {
 			}
 
 			int diff = code % mod;					// 字符到字母表开始的偏移
-			int newcode = (diff * 2 % 25) + mod;	// 偏移*2，取模以限制其范围
+			int newcode = diff * 2 % 26;			// 偏移*2，取模以限制其范围
+			if (newcode == 0) {
+				newcode = 26;						// 当此时的值为26的倍数时，答案应该是第26个字母而不是第0个（不存在）
+			}
+			newcode += mod;
 			*pResult = (char)newcode;				// 结果存入result[]
 
 			++pCurr;
