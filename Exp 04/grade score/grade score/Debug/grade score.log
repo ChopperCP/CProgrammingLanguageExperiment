@@ -1,0 +1,3 @@
+﻿  grade score.cpp
+d:\onedrive\学习资料\大三\c语言实验\cprogramminglanguageexperiment\exp 04\grade score\grade score\grade score.cpp(56): warning C4101: “msg”: 未引用的局部变量
+  grade score.vcxproj -> D:\OneDrive\学习资料\大三\C语言实验\CProgrammingLanguageExperiment\Exp 04\grade score\Debug\grade score.exe
