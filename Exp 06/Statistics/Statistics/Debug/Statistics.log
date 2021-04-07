@@ -1,0 +1,3 @@
+﻿  Statistics.cpp
+d:\onedrive\学习资料\大三\c语言实验\cprogramminglanguageexperiment\exp 06\statistics\statistics\statistics.cpp(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Statistics.vcxproj -> D:\OneDrive\学习资料\大三\C语言实验\CProgrammingLanguageExperiment\Exp 06\Statistics\Debug\Statistics.exe
