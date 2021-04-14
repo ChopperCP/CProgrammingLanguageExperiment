@@ -1,0 +1,5 @@
+﻿  Function Graph.cpp
+d:\onedrive\学习资料\大三\c语言实验\cprogramminglanguageexperiment\exp 07\function graph\function graph\function graph.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+d:\onedrive\学习资料\大三\c语言实验\cprogramminglanguageexperiment\exp 07\function graph\function graph\function graph.cpp(34): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\onedrive\学习资料\大三\c语言实验\cprogramminglanguageexperiment\exp 07\function graph\function graph\function graph.cpp(41): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Function Graph.vcxproj -> D:\OneDrive\学习资料\大三\C语言实验\CProgrammingLanguageExperiment\Exp 07\Function Graph\Debug\Function Graph.exe
