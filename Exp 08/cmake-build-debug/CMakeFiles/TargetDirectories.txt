@@ -1,0 +1,3 @@
+D:/cool stuff/Temp Code/Exp 08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/cool stuff/Temp Code/Exp 08/cmake-build-debug/CMakeFiles/Exp_08.dir
+D:/cool stuff/Temp Code/Exp 08/cmake-build-debug/CMakeFiles/edit_cache.dir
