@@ -1,0 +1,3 @@
+D:/cool stuff/Temp Code/My Stack/cmake-build-debug/CMakeFiles/My_Stack.dir
+D:/cool stuff/Temp Code/My Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cool stuff/Temp Code/My Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
