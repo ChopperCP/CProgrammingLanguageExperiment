@@ -1,0 +1,3 @@
+"E:\Software\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Poker_Classifier.dir/objects.a
+D:\Software\Mingw\bin\ar.exe cr CMakeFiles\Poker_Classifier.dir/objects.a @CMakeFiles\Poker_Classifier.dir\objects1.rsp
+D:\Software\Mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Poker_Classifier.dir/objects.a -Wl,--no-whole-archive -o Poker_Classifier.exe -Wl,--out-implib,libPoker_Classifier.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Poker_Classifier.dir\linklibs.rsp
