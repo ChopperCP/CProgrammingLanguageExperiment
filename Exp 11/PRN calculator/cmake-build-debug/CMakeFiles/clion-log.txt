@@ -1,0 +1,4 @@
+"E:\Software\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\cool stuff\Temp Code\CProgrammingLanguageExperiment\Exp 11\PRN calculator"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp 11/PRN calculator/cmake-build-debug

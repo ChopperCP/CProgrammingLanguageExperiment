@@ -1,0 +1,3 @@
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp 11/PRN calculator/cmake-build-debug/CMakeFiles/PRN_calculator.dir
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp 11/PRN calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp 11/PRN calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

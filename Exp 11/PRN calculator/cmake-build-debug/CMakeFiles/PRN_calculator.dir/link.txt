@@ -1,0 +1,3 @@
+"E:\Software\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PRN_calculator.dir/objects.a
+D:\Software\Mingw\bin\ar.exe cr CMakeFiles\PRN_calculator.dir/objects.a @CMakeFiles\PRN_calculator.dir\objects1.rsp
+D:\Software\Mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\PRN_calculator.dir/objects.a -Wl,--no-whole-archive -o PRN_calculator.exe -Wl,--out-implib,libPRN_calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PRN_calculator.dir\linklibs.rsp
