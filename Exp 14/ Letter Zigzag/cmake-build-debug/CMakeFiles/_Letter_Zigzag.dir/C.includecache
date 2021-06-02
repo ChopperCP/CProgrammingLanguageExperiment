@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp 14/ Letter Zigzag/main.c
+stdio.h
+-
+

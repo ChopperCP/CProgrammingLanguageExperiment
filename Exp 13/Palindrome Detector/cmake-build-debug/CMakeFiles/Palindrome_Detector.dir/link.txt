@@ -1,0 +1,3 @@
+"E:\Software\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Palindrome_Detector.dir/objects.a
+D:\Software\Mingw\bin\ar.exe cr CMakeFiles\Palindrome_Detector.dir/objects.a @CMakeFiles\Palindrome_Detector.dir\objects1.rsp
+D:\Software\Mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Palindrome_Detector.dir/objects.a -Wl,--no-whole-archive -o Palindrome_Detector.exe -Wl,--out-implib,libPalindrome_Detector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Palindrome_Detector.dir\linklibs.rsp
