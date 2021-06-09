@@ -1,0 +1,3 @@
+"E:\Software\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\List_and_Array.dir/objects.a
+D:\Software\Mingw\bin\ar.exe cr CMakeFiles\List_and_Array.dir/objects.a @CMakeFiles\List_and_Array.dir\objects1.rsp
+D:\Software\Mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\List_and_Array.dir/objects.a -Wl,--no-whole-archive -o List_and_Array.exe -Wl,--out-implib,libList_and_Array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\List_and_Array.dir\linklibs.rsp

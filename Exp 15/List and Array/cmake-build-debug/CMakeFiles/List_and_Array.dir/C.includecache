@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp 15/List and Array/main.c
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+
