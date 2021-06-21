@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Relation_Database"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Relation_Database">
+				<Option output="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Relation_Database.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 Relation_Database"/>
+					<CompileFile command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Relation_Database/fast">
+				<Option output="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Relation_Database.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 Relation_Database/fast"/>
+					<CompileFile command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Mingw/bin/mingw32-make.exe -f &quot;D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Course.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student_Course.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cJSON.c">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cJSON.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/course.c">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/course.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/import_export.c">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/import_export.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/main.c">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/student.c">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/student.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/student_course.c">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/student_course.h">
+			<Option target="Relation_Database"/>
+		</Unit>
+		<Unit filename="D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

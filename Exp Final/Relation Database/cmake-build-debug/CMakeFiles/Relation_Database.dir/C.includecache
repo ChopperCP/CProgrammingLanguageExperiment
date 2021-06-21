@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Course.h
+string.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdio.h
+-
+Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Course.h
+Student_Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student_Course.h
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student.h
+string.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdio.h
+-
+Student_Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student_Course.h
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student_Course.h
+time.h
+-
+string.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+Student.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student.h
+Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Course.h
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cJSON.h
+stddef.h
+-
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/import_export.c
+import_export.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/import_export.h
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/import_export.h
+stdio.h
+-
+cJSON.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/cJSON.h
+Student.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student.h
+Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Course.h
+Student_Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student_Course.h
+
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/main.c
+stdio.h
+-
+string.h
+-
+time.h
+-
+Student.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student.h
+Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Course.h
+Student_Course.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/Student_Course.h
+import_export.h
+D:/cool stuff/Temp Code/CProgrammingLanguageExperiment/Exp Final/Relation Database/import_export.h
+
